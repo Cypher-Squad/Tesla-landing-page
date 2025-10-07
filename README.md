@@ -37,15 +37,15 @@ It is a responsive, visually appealing landing page inspired by Tesla's official
 
 ## 🚀 Demo
 
-You can view the live demo here: [Tesla Landing Page](https://github.com/Cypher-Squad/Tesla-landing-page)  
+You can view the live demo here: [Tesla Landing Page](https://cypher-squad.github.io/Tesla-landing-page/)  
 
 ---
 
 ## 📝 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Cypher-Squad/Tesla-landing-page.git
+1. Clone the repositor
+   ```
+   git clone https://github.r-Squad/Tesla-landing-page.git
    cd Tesla-landing-page
    ```
 
